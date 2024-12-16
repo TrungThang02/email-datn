@@ -1,0 +1,12 @@
+{
+  "name": "sendemails",
+  "version": "1.0.0",
+  "main": "functions/send-email.js",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.16"
+  },
+  "type": "module"
+}
